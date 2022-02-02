@@ -1,0 +1,16 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "nombreTarea": "Estudiar"
+    },
+    {
+      "id": 2,
+      "nombreTarea": "practicar react"
+    },
+    {
+      "nombreTarea": "sdfsdfsssss",
+      "id": 4
+    }
+  ]
+}
